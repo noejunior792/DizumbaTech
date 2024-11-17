@@ -6,23 +6,23 @@ const siteMetadata = {
   description: 'Dizumba Tech WebSite',
   language: 'pt-pt',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
-  siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
+  siteUrl: 'https://dizumbatech.vercel.app',
+  siteRepo: 'https://github.com/IgorSemed0/DizumbaTech',
   siteLogo: `${process.env.BASE_PATH || ''}/static/images/logo.png`,
   socialBanner: `${process.env.BASE_PATH || ''}/static/images/twitter-card.png`,
-  mastodon: 'https://mastodon.social/@mastodonuser',
-  email: 'address@yoursite.com',
-  github: 'https://github.com',
-  x: 'https://twitter.com/x',
+  // mastodon: 'https://mastodon.social/@mastodonuser',
+  email: 'semedoigor4@gmail.com',
+  github: 'https://github.com/IgorSemed0/DizumbaTech',
+  // x: 'https://x.com/DizumbaTech',
   // twitter: 'https://twitter.com/Twitter',
-  facebook: 'https://facebook.com',
-  youtube: 'https://youtube.com',
-  linkedin: 'https://www.linkedin.com',
-  threads: 'https://www.threads.net',
-  instagram: 'https://www.instagram.com',
-  medium: 'https://medium.com',
-  bluesky: 'https://bsky.app/',
-  locale: 'en-US',
+  // facebook: 'https://facebook.com',
+  youtube: 'https://youtube.com/@DizumbaTech',
+  // linkedin: 'https://www.linkedin.com',
+  // threads: 'https://www.threads.net',
+  // instagram: 'https://www.instagram.com',
+  // medium: 'https://medium.com',
+  // bluesky: 'https://bsky.app/',
+  locale: 'pt-PT',
   // set to true if you want a navbar fixed to the top
   stickyNav: false,
   analytics: {
@@ -45,9 +45,9 @@ const siteMetadata = {
     // posthogAnalytics: {
     //   posthogProjectApiKey: '', // e.g. 123e4567-e89b-12d3-a456-426614174000
     // },
-    // googleAnalytics: {
-    //   googleAnalyticsId: '', // e.g. G-XXXXXXX
-    // },
+    googleAnalytics: {
+      googleAnalyticsId: 'G-3BQMMDJ2SP', // e.g. G-XXXXXXX
+    },
   },
   newsletter: {
     // supports mailchimp, buttondown, convertkit, klaviyo, revue, emailoctopus, beehive
@@ -81,7 +81,7 @@ const siteMetadata = {
       // example: https://giscus.app/themes/custom_example.css
       themeURL: '',
       // This corresponds to the `data-lang="en"` in giscus's configurations
-      lang: 'en',
+      lang: 'pt-pt',
     },
   },
   search: {
