@@ -27,9 +27,7 @@ export default function Footer() {
           <Link href="/">{siteMetadata.title}</Link>
         </div>
         <div className="mb-8 text-sm text-gray-500 dark:text-gray-400">
-          <Link href="https://youtube.com/@DizumbaTech">
-            Dizumba Tech © 2024.
-          </Link>
+          <Link href="https://youtube.com/@DizumbaTech">Dizumba Tech © 2024.</Link>
         </div>
       </div>
     </footer>
