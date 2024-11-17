@@ -20,7 +20,7 @@ const projectsData: Project[] = [
     design, produtividade e mais. Nesta série, exploramos os prós e contras de cada sistema para ajudá-lo
     a decidir qual é o melhor para suas necessidades.`,
     imgSrc: '/static/images/publicacoes/projectos/rinha-so-linux-vs-windows.jpg',
-    href: '/blog/rinha-so-linux-vs-windos/rinha-so-linux-vs-windos', 
+    href: '/blog/rinha-so-linux-vs-windos/rinha-so-linux-vs-windows', 
   },
   {
     title: 'The Time Machine',
