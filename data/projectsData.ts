@@ -19,8 +19,8 @@ const projectsData: Project[] = [
     description: `Descubra como Windows e Linux se comparam em diferentes contextos, como programação,
     design, produtividade e mais. Nesta série, exploramos os prós e contras de cada sistema para ajudá-lo
     a decidir qual é o melhor para suas necessidades.`,
-    imgSrc: '/static/images/google.png',
-    href: '/blog/rinha-so-windows-vs-linux',
+    imgSrc: '/static/images/publicacoes/projectos/rinha-so-linux-vs-windows.jpg',
+    href: '/blog/rinha-so-linux-vs-windos/rinha-so-linux-vs-windos', 
   },
   {
     title: 'The Time Machine',
