@@ -3,7 +3,7 @@ const siteMetadata = {
   title: 'Dizumba Tech',
   author: 'Igor Semedo',
   headerTitle: 'DizumbaTech',
-  description: 'Dizumba Tech WebSite',
+  description: ' Dizumba Tech é o seu portal para explorar a tecnologia de forma descomplicada!  Aqui, conectamos Angola ao mundo com conteúdo tecnológicos do dia a dia, apresentando tutoriais claros e análises detalhadas.Nosso objetivo é empoderar você com conhecimento técnico e a solucionar as Dizumbas que a tecnologia tem a apresentar.',
   language: 'pt-pt',
   theme: 'system', // system, dark or light
   siteUrl: 'https://dizumbatech.vercel.app',
