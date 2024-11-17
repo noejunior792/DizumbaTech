@@ -163,7 +163,7 @@ Make sure that all grammar rule definitions are done before 'performSelfAnalysis
 `,l=`
 <link rel='stylesheet' href='`+o+`'>
 `,c=`
-<script src='`+n+`vendor/railroad-diagrams.js'><\/script>
+'`+n+`vendor/railroad-diagrams.js'><\/script>
 <script src='`+n+`src/diagrams_builder.js'><\/script>
 <script src='`+n+`src/diagrams_behavior.js'><\/script>
 <script src='`+n+`src/main.js'><\/script>
