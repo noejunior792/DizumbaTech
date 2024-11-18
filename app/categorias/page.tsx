@@ -1,4 +1,4 @@
-import Link from '@/components/Link'
+wiamport Link from '@/components/Link'
 import Tag from '@/components/Tag'
 import { slug } from 'github-slugger'
 import tagData from 'app/tag-data.json'
@@ -29,7 +29,7 @@ export default async function Page() {
                 <Link
                   href={`/categorias/${slug(t)}`}
                   className="-ml-2 text-sm font-semibold uppercase text-gray-600 dark:text-gray-300"
-                  aria-label={`View posts tagged ${t}`}
+                  aria-label={`Ver postes com a categoria${t}`}
                 >
                   {` (${tagCounts[t]})`}
                 </Link>
