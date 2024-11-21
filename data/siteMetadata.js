@@ -13,7 +13,8 @@ const siteMetadata = {
   // mastodon: 'https://mastodon.social/@mastodonuser',
   email: 'semedoigor4@gmail.com',
   github: 'https://github.com/IgorSemed0/DizumbaTech',
-  // x: 'https://x.com/DizumbaTech',
+  // x: 'https://x.com/DizumbaTech',  author: 'Igor Semedo',
+
   // twitter: 'https://twitter.com/Twitter',
   // facebook: 'https://facebook.com',
   youtube: 'https://youtube.com/@DizumbaTech',

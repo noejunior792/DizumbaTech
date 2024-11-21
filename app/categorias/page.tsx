@@ -29,7 +29,7 @@ export default async function Page() {
                 <Link
                   href={`/categorias/${slug(t)}`}
                   className="-ml-2 text-sm font-semibold uppercase text-gray-600 dark:text-gray-300"
-                  aria-label={`View posts tagged ${t}`}
+                  aria-label={`Ver postes com a categoria${t}`}
                 >
                   {` (${tagCounts[t]})`}
                 </Link>
