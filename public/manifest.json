@@ -4,12 +4,12 @@
   "description": "Dizumba Tech é o seu portal para explorar a tecnologia de forma descomplicada! Aqui, conectamos Angola ao mundo com conteúdo tecnológicos do dia a dia.Nosso objetivo é empoderar você com conhecimento técnico e a solucionar as Dizumbas que a tecnologia tem a apresentar.",
   "icons": [
     {
-      "src": "/icon-192x192.png",
+      "src": "/static/pwa/192x192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/icon-512x512.png",
+      "src": "/static/pwa/512x512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
