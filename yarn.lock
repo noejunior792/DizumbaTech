@@ -3799,6 +3799,33 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@vercel/speed-insights@npm:^1.1.0":
+  version: 1.1.0
+  resolution: "@vercel/speed-insights@npm:1.1.0"
+  peerDependencies:
+    "@sveltejs/kit": ^1 || ^2
+    next: ">= 13"
+    react: ^18 || ^19 || ^19.0.0-rc
+    svelte: ">= 4"
+    vue: ^3
+    vue-router: ^4
+  peerDependenciesMeta:
+    "@sveltejs/kit":
+      optional: true
+    next:
+      optional: true
+    react:
+      optional: true
+    svelte:
+      optional: true
+    vue:
+      optional: true
+    vue-router:
+      optional: true
+  checksum: 0e8b024cfff04371a82e5d8edbf1319d7108dc35e6cd2565c541c597fc7d47f0b45fd251f09c94c702063ef42873f3cf8778e1af4c8f41ab9370fb4ff34635dc
+  languageName: node
+  linkType: hard
+
 "abbrev@npm:^2.0.0":
   version: 2.0.0
   resolution: "abbrev@npm:2.0.0"
@@ -11347,6 +11374,7 @@ react@rc:
     "@types/react": ^18.2.73
     "@typescript-eslint/eslint-plugin": ^8.12.0
     "@typescript-eslint/parser": ^8.12.0
+    "@vercel/speed-insights": ^1.1.0
     autoprefixer: ^10.4.13
     body-scroll-lock: ^4.0.0-beta.0
     contentlayer2: 0.5.3
