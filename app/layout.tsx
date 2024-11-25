@@ -11,6 +11,8 @@ import Footer from '@/components/Footer'
 import siteMetadata from '@/data/siteMetadata'
 import { ThemeProviders } from './theme-providers'
 import { Metadata } from 'next'
+import { SpeedInsights } from '@vercel/speed-insights/next'
+
 
 const space_grotesk = Space_Grotesk({
   subsets: ['latin'],
